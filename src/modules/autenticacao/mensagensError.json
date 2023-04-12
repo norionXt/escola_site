@@ -1,0 +1,5 @@
+{
+    "auth/user-not-found": "Usuário não encontrado",
+    "auth/invalid-email": "Email inválido",
+    "auth/missing-email": "Email não enviado"
+}

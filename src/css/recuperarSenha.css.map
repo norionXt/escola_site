@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,eAAe;EACX,KAAK,EAAE,gBAAgB;EACvB,iBAAC;IACG,WAAW,EAAE,IAAI;IACjB,MAAM,EAAE,MAAM;IACd,KAAK,EAAE,OAAO;EAClB,sBAAM;IACF,SAAS,EAAE,eAAe",
+"sources": ["../sass/recuperarSenha.sass"],
+"names": [],
+"file": "recuperarSenha.css"
+}

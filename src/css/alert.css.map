@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,WAAI;EACA,SAAS,EAAE,IAAI",
+"sources": ["../sass/alert.sass"],
+"names": [],
+"file": "alert.css"
+}
